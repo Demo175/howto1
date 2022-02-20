@@ -1,0 +1,33 @@
+h2{
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h3{
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h4{
+    color: gold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+h1{
+    color: rgb(20, 20, 20);
+ font-family: Arial, Helvetica, sans-serif;
+ font-size: 20px;
+}
+h5{
+    color: gold;
+ font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 0,0001px;
+}
+.button{
+    height: 35px;
+    width: 100px;
+    background-color: yellow;
+    color: black;
+    border:none;
+    border-radius: 5px;
+    margin-left: 600px;
+    text-align: center;
+}
