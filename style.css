@@ -28,3 +28,9 @@ h1{
  font-family: Arial, Helvetica, sans-serif;
  font-size: 20px;
 }
+h5{
+    color: gold;
+ font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 0,0001px;
+}
+
