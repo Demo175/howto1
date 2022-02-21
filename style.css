@@ -44,7 +44,7 @@ h5{
     margin-left: 600px;
     text-align: center;
 }
-btn--1{
+.nutbam1{
     background-color: gold; /* màu của Quản trị mạng ^^ */
     border: none;
     width: 400px;
@@ -56,7 +56,7 @@ btn--1{
     display: inline-block;
     font-size: 15px;
 }
-btn--2{
+.nutbam2{
     background-color: gold; /* màu của Quản trị mạng ^^ */
     border: none;
     width: 400px;
@@ -67,5 +67,5 @@ btn--2{
     text-decoration: none;
     display: inline-block;
     font-size: 15px;
-    magrin-left: 30px
+    magrin-left: 80px
 }
