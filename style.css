@@ -45,27 +45,18 @@ h5{
     text-align: center;
 }
 .nutbam1{
-    background-color: gold; /* màu của Quản trị mạng ^^ */
+    background-color: gold; 
     border: none;
     width: 400px;
     height: 255px;
     color: white;
-    padding: 15px 32px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
     font-size: 15px;
 }
 .nutbam2{
-    background-color: gold; /* màu của Quản trị mạng ^^ */
-    border: none;
+    background-color: gold; 
     width: 400px;
     height: 255px;
     color: white;
-    padding: 15px 32px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
     font-size: 15px;
     magrin-left: 90px
 }
