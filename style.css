@@ -44,3 +44,28 @@ h5{
     margin-left: 600px;
     text-align: center;
 }
+btn--1{
+    background-color: gold; /* màu của Quản trị mạng ^^ */
+    border: none;
+    width: 400px;
+    height: 255px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+}
+btn--2{
+    background-color: gold; /* màu của Quản trị mạng ^^ */
+    border: none;
+    width: 400px;
+    height: 255px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    magrin-left: 30px
+}
