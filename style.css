@@ -38,9 +38,6 @@ h5{
     font-size: 15px;
     margin-left: 40px;
     border-radius: 5px;
-    container a {
-    padding: .4em;
-    }
 }
 .nutbam2{
     background-color: gold; 
@@ -50,7 +47,4 @@ h5{
     font-size: 15px;
     border-radius: 5px
     margin-left: 40px;
-    container a {
-    padding: .8em;
-  }
 }
