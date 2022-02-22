@@ -35,6 +35,7 @@ h5{
     letter-spacing: 0,0001px;
 }
 btn{
+    outline: 5px;
 }
 .nutbam1{
     background-color: gold; 
