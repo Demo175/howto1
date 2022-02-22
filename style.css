@@ -43,6 +43,9 @@ btn{
     height: 255px;
     color: white;
     font-size: 15px;
+    .container a {
+     padding: .2em;
+     }
 }
 .nutbam2{
     background-color: gold; 
@@ -51,4 +54,7 @@ btn{
     color: white;
     font-size: 15px;
     margin-left: 40px;
+    container a {
+    padding: .8em;
+  }
 }
