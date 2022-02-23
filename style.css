@@ -30,14 +30,14 @@ h5{
 .nutbam1{
     width: 400px;
     height: 255px;
-    color: gold;
+    background-color: gold;
     font-size: 15px;
     border-radius: 10px;
 }
 .nutbam2{ 
     width: 400px;
     height: 255px;
-    color: gold;
+    background-color: gold;
     font-size: 15px;
     border-radius: 10px;
     margin-left: 40px;
