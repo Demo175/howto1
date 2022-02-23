@@ -101,27 +101,6 @@ h5{
     color: gold;
     font-size: 15px;
     border-radius: 10px;
-    box-shadow: 
-    0.3em 0.3em 0 0 var(--color),
-    inset 0.3em 0.3em 0 0 var(--color);
-    position: absolute;
-    color: #000;
-    text-align: center;
-    width: 101%;
-    font-family: 'Lato', sans-serif;
-    font-weight: 300;
-    position: absolute;
-    font-size: 11px;
-    margin-top: 17px;
-    overflow: hidden;
-	  font-weight: bold;
-  
-  &:hover,
-  &:focus {
-    box-shadow: 
-      0 0 0 0 var(--hover),
-      inset 6em 3.5em 0 0 var(--hover);
-  }
 }
 .nutbam2{
     background-color: gold; 
@@ -131,25 +110,4 @@ h5{
     font-size: 15px;
     border-radius: 10px;
     margin-left: 40px;
-    box-shadow: 
-    0.3em 0.3em 0 0 var(--color),
-    inset 0.3em 0.3em 0 0 var(--color);
-    position: absolute;
-    color: #000;
-    text-align: center;
-    width: 101%;
-    font-family: 'Lato', sans-serif;
-    font-weight: 300;
-    position: absolute;
-    font-size: 11px;
-    margin-top: 17px;
-    overflow: hidden;
-	  font-weight: bold;
-  
-  &:hover,
-  &:focus {
-    box-shadow: 
-      0 0 0 0 var(--hover),
-      inset 6em 3.5em 0 0 var(--hover);
-  }
 }
