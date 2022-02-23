@@ -95,15 +95,13 @@ h5{
     letter-spacing: 0,0001px;
 }
 .nutbam1{
-   background-color: gold; 
     width: 400px;
     height: 255px;
     color: gold;
     font-size: 15px;
     border-radius: 10px;
 }
-.nutbam2{
-    background-color: gold; 
+.nutbam2{ 
     width: 400px;
     height: 255px;
     color: gold;
