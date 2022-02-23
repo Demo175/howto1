@@ -37,6 +37,7 @@ h5{
     color: gold;
     font-size: 15px;
     border-radius: 10px;
+    boder: none;
 }
 .nutbam2{
     background-color: gold; 
@@ -46,4 +47,5 @@ h5{
     font-size: 15px;
     border-radius: 10px;
     margin-left: 40px;
+    boder: none;
 }
