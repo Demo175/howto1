@@ -104,6 +104,17 @@ h5{
     box-shadow: 
     0.3em 0.3em 0 0 var(--color),
     inset 0.3em 0.3em 0 0 var(--color);
+    position: absolute;
+    color: #000;
+    text-align: center;
+    width: 101%;
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    position: absolute;
+    font-size: 11px;
+    margin-top: 17px;
+    overflow: hidden;
+	  font-weight: bold;
   
   &:hover,
   &:focus {
@@ -123,6 +134,17 @@ h5{
     box-shadow: 
     0.3em 0.3em 0 0 var(--color),
     inset 0.3em 0.3em 0 0 var(--color);
+    position: absolute;
+    color: #000;
+    text-align: center;
+    width: 101%;
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    position: absolute;
+    font-size: 11px;
+    margin-top: 17px;
+    overflow: hidden;
+	  font-weight: bold;
   
   &:hover,
   &:focus {
